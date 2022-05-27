@@ -1,16 +1,33 @@
-### Hi there 👋
+## Hello there, I'm a Senior Blockchain Developer.
 
-<!--
-**kdbvier/kdbvier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a senior full stack blockchain developer, researcher and educator. I love public goods and regenerative cryptoeconomics.
 
-Here are some ideas to get you started:
+Here to change the world for the better.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Working hard to become a senior developer.  
+
+- I developed several blockchain projects such as DEFI, DEX, and so on.
+- 🔥 I have a passion for web3, AI, mathematics, physics and more.
+- 🎯 My current goal is to become a highly skilled blockchain developer in order to create the future of human interaction and coordination.
+
+### Blockchain Development (Ethereum decentralized applications)
+- Rust, Cosmwasm
+- Near, Terra, Juno, Secret
+- Solidity
+- HardHat
+- Ethers.js
+- Foundry
+- OpenZeppelin / Solmate (you gotta love @transmissions11)
+
+### Full Stack Development
+
+- React
+- Next.js
+- ChakraUI / Tailwind.css
+- Python
+- PostgreSQL
+- Node.js
+
+<br />
+
+<br /> 
