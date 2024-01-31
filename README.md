@@ -1,4 +1,4 @@
-## Hello there, I'm a Senior Blockchain Developer.
+## Hello there, I'm a Senior Full Stack Developer.
 
 I'm a senior full stack blockchain developer, researcher and educator. I love public goods and regenerative cryptoeconomics.
 
